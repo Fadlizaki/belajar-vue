@@ -36,7 +36,7 @@
         <iframe src="https://www.youtube.com/embed/HVbzfvGx8JA" title="YouTube video player"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen></iframe>
-          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">KUNCI MENCAPAI HATI YANG TENANG & LAPANG</h5>
+          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">KUNCI MENCAPAI HATI YANG TENANG</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">Ustadz. Abdul Somad</p>
       </the-card>
     </div>
@@ -45,7 +45,7 @@
         <iframe src="https://www.youtube.com/embed/izYUMrsvVDQ" title="YouTube video player"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen></iframe>
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Hadiah Allah Ketika Mengalami Kesulitan</h5>
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Hadiah Allah Ketika Mengalami</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">Ustadz Adi Hidayat</p>
       </the-card>
     </div>
