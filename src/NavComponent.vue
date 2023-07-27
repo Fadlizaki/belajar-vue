@@ -2,22 +2,18 @@
      <Navbar>
     <template #logo>
       <Navbar>
-        Al-karim
+        AL- KARIM
       </Navbar>
     </template>
     <template #default="{ isShowMenu }">
       <NavbarCollapse :isShowMenu="isShowMenu">
-        <NavbarLink is-active>Home</NavbarLink>
-        <NavbarLink>Services</NavbarLink>
-        <NavbarLink>Pricing</NavbarLink>
-        <NavbarLink>Contact</NavbarLink>
+        <NavbarLink is-active>Beranda</NavbarLink>
+        <NavbarLink>kontak</NavbarLink>
+        <NavbarLink>Tentang</NavbarLink>
       </NavbarCollapse>
-    </template>
-    <template #right-side>
-  
     </template>
   </Navbar>
 </template>
 <script setup>
-import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
+import { Navbar, NavbarCollapse, NavbarLink } from 'flowbite-vue'
 </script>

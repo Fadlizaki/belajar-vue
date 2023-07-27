@@ -1,4 +1,8 @@
 <template>
+     <center><b class="p-2"
+            style="font-size: 30px; text-align: center; color: black; font-family: 'sans-serif', Calibri, 'Trebuchet MS', sans-serif;">Vidio</b>
+    </center>
+    <center> <div style="width: 10%; background: grey; height: 2px;"></div></center>
   <div class="grid grid-cols-3 gap-4">
     <div class=" pl-10 a">
       <the-card>

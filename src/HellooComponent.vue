@@ -1,7 +1,10 @@
 <template>
-
-    
-    <b class="p-2" style="font-size: 30px; text-align: center; color: black; font-family: 'sans-serif',Calibri,'Trebuchet MS', sans-serif;">Galeri</b>
+    <center><b class="p-2"
+            style="font-size: 30px; text-align: center; color: black; font-family: 'sans-serif', Calibri, 'Trebuchet MS', sans-serif;">Galeri</b>
+    </center>
+    <center> <div style="width: 10%; background: grey; height: 2px;"></div></center>
+    <br>
+        
     <div class="grid grid-cols-3">
         <div class="pl-20">
             <img src="./a.png" alt="">
@@ -12,7 +15,6 @@
         <div class="pl-20">
             <img src="./c.png" alt="">
         </div>
-      
-    </div>
 
+    </div>
 </template>
