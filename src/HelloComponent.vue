@@ -18,7 +18,7 @@
         <iframe src="https://www.youtube.com/embed/TvmKT5gJCRE" title="YouTube video player"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen></iframe>
-        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Amalan Terakhir Seorang Muslim</h5>
+        <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Amalan Terakhir Seorang Muslim Di Dunia</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">Ustadz Adi Hidayat</p>
       </the-card>
     </div>
@@ -27,7 +27,7 @@
         <iframe src="https://www.youtube.com/embed/sy-HbOc1RkA" title="YouTube video player"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           allowfullscreen></iframe>
-          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">LEWATI INI MAKA HIDUPMU AKAN MENJADI LEBIH BAIK</h5>
+          <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">HIDUPMU AKAN MENJADI LEBIH BAIK</h5>
           <p class="font-normal text-gray-700 dark:text-gray-400"> Ustadz Hanan Attaki </p>
       </the-card>
     </div>
