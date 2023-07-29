@@ -6,25 +6,25 @@
           style="font-size: 30px; text-align: center; color: black; font-family: 'sans-serif', Calibri, 'Trebuchet MS', sans-serif;">Kontak</b>
           <div style="width: 10%; background: rgb(10, 47, 229); height: 5px;"></div>
           <br>
-    <form>
-      <div>
-        <label for="name">Whatsap</label>
+    <form class="grid grid-rows-3 grid-flow-col gap-4">
+      <div class="row-start-1 row-end-4">
+        <label for="name">Whatsap :</label>
         <button class="bg-green-600" type="submit" >
           <a href="https://wa.me/6283137969755?text=halo%20fadli%20">CLICK DISINI</a>
         </button>
-      </div>
-      <div>
-        <label for="name">Email</label>
+        </div>
+        <div class="row-start-1 row-end-4">
+        <label for="name">Email :</label>
         <button class="bg-blue-600" type="submit" >
           <a href="mailto:fdlizaki26@gmail.com?subject=Ini%20adalah%20judul%20email%20default&body=Pesan%20ini%20akan%20secara%20otomatis%20muncul%20lho%21">CLICK DISINI</a>  
         </button>
-      </div>
-      <div>
-        <label for="name">Git Hub</label>
+        </div>
+        <div class="row-start-1 row-end-4">
+        <label for="name">Git Hub :</label>
         <button class="bg-red-600" type="submit" >
           <a href="https://github.com/Fadlizaki">CLICK DISINI</a>
         </button>
-      </div>
+        </div>
     </form>
     </center>
   </body>
