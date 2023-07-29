@@ -3,6 +3,7 @@ import NavComponent from './NavComponent.vue'
 import HelloComponent from './HelloComponent.vue'
 import HeaderComponent from './HeaderComponent.vue'
 import HellooComponent from './HellooComponent.vue'
+import ContackComponent from './ContackComponent.vue'
 import FooterComponent from './FooterComponent.vue'
 </script>
 <template>
@@ -19,6 +20,9 @@ import FooterComponent from './FooterComponent.vue'
   <br>
   <div class="back1" style="background: white;">
     <HellooComponent></HellooComponent>
+  </div>
+  <div class="back1" style="background: white;">
+    <ContackComponent></ContackComponent>
   </div>
   <br>
   <div class="down" >
