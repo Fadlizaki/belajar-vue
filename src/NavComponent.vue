@@ -42,9 +42,9 @@ import { Navbar, NavbarLogo, NavbarCollapse, NavbarLink } from 'flowbite-vue'
       </template>
       <template #default="{isShowMenu}">
         <NavbarCollapse :isShowMenu="isShowMenu" class="mr-20">
-          <NavbarLink isActive link="#">Beranda</NavbarLink>
-          <NavbarLink link="#">Tentang</NavbarLink>
-          <NavbarLink link="#">Kontak</NavbarLink>
+          <NavbarLink isActive src="./HelloComponent.vue">Beranda</NavbarLink>
+          <NavbarLink src="./HellooComponent.vue">Tentang</NavbarLink>
+          <NavbarLink href="./ContackComponent.vue">Kontak</NavbarLink>
         </NavbarCollapse>
       </template>
     </Navbar>
